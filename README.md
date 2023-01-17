@@ -1,6 +1,6 @@
 # Olá! :smile:
 
-- :grin: Meu nome é **Matheus** atualmente tenho 24 anos e sou estudante de Analise e Desenvolvimento de Sistemas 
+- :grin: Meu nome é **Matheus** atualmente tenho 24 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**
 - :sunglasses: Tenho muito interesse na area de programação front-end mas claro sempre experimentando algo diferente 
 - :space_invader: Atualmente estou reforçando minha pratica com o JavaScript 
 - :email: Meu email de contato **matheus.tats@gmail.com** 
@@ -8,9 +8,9 @@
 
 # Sites
 
-[**Guia do Sobrevivente Digital**](https://sobreviventedigital.com.br/)
+- [**Guia do Sobrevivente Digital**](https://sobreviventedigital.com.br/)
 
-[**A Charge digital**](https://achargedigital.com.br/)
+- [**A Charge digital**](https://achargedigital.com.br/)
 
 # Estudos 
 
