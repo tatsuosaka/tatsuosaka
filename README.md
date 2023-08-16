@@ -2,7 +2,7 @@
 
 - :grin: Meu nome é **Matheus** atualmente tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**
 - :sunglasses: Tenho muito interesse na area de programação front-end mas sempre experimentando algo diferente 
-- [](https://icons8.com/icon/71257/angularjs) Atualmente estou estudando TypeScript e Angular!
+- <img src="https://img.icons8.com/?size=512&id=71257&format=png" alt="MarineGEO circle logo" style="height: 20px; width:20px;"/> Atualmente estou estudando TypeScript e Angular!
 - :email: Meu email de contato **matheus.tats@gmail.com** 
 - :v: Obrigado por ler até aqui e um abraço ! 
 
