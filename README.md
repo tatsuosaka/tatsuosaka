@@ -22,7 +22,7 @@
 #### WORDPRESS
 
 - [**Curso em vídeo** - WordPress](https://www.cursoemvideo.com/curso/wordpress-2019-profissional-com-gutenberg/)
-<!---
-tatsuosaka/tatsuosaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### ANGULAR
+
+- [**Udemy** - Curso de Angular](https://www.udemy.com/course/curso-de-angular/)
