@@ -2,7 +2,7 @@
 
 - :grin: Meu nome é **Matheus** atualmente tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**
 - :sunglasses: Tenho muito interesse na area de programação front-end mas sempre experimentando algo diferente 
-- :space_invader: Atualmente estou estudando TypeScript e Angular!
+- [](https://icons8.com/icon/71257/angularjs) Atualmente estou estudando TypeScript e Angular!
 - :email: Meu email de contato **matheus.tats@gmail.com** 
 - :v: Obrigado por ler até aqui e um abraço ! 
 
