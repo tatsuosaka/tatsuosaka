@@ -2,7 +2,7 @@
 
 - :grin: Meu nome é **Matheus** atualmente tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**
 - :sunglasses: Tenho muito interesse na area de programação front-end mas sempre experimentando algo diferente 
-- :space_invader: Atualmente estou reforçando minha pratica com o JavaScript 
+- :space_invader: Atualmente estou estudando TypeScript e Angular!
 - :email: Meu email de contato **matheus.tats@gmail.com** 
 - :v: Obrigado por ler até aqui e um abraço ! 
 
@@ -23,6 +23,6 @@
 
 - [**Curso em vídeo** - WordPress](https://www.cursoemvideo.com/curso/wordpress-2019-profissional-com-gutenberg/)
 
-#### ANGULAR
+#### ANGULAR e TYPESCRIPT
 
 - [**Udemy** - Curso de Angular](https://www.udemy.com/course/curso-de-angular/)
