@@ -14,6 +14,10 @@
 
 # Estudos 
 
+#### FACULDADE - Cursando - Atualmente estou no 3°Semestre
+
+- [**Descomplica - Análise e desenvolvimento de sistemas**](https://descomplica.com.br/guia-de-carreiras/analise-e-desenvolvimento-de-sistemas/)
+
 #### HTML, CSS e JAVASCRIPT 
 
 - [**Udemy** - Desenvolvimento Web Completo](https://www.udemy.com/course-dashboard-redirect/?course_id=1341268)
