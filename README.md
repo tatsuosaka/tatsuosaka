@@ -8,7 +8,6 @@
 
 # Sites
 
-- [**Guia do Sobrevivente Digital**](https://sobreviventedigital.com.br/)
 - [**A Charge digital**](https://achargedigital.com.br/)
 - [**Coding Invest**](https://www.codinginvest.com.br/)
 - [**Blog Coding Invest**](https://blog.codinginvest.com.br/)
