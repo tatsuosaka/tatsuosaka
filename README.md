@@ -2,7 +2,7 @@
 
 - 👋 Meu nome é **Matheus** atualmente tenho 25 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**
 - :sunglasses: Tenho muito interesse na area de programação front-end mas sempre experimentando algo diferente 
-- 👨‍💻 Atualmente estou estudando **TypeScript** e **Angular**!
+- 👨‍💻 Atualmente estou estudando **React** e **Next.js**!
 - :email: Meu email de contato **contato@tatsuosaka.com** 
 - :v: Obrigado por ler até aqui e um abraço ! 
 
@@ -32,3 +32,7 @@
 #### ANGULAR e TYPESCRIPT
 
 - [**Udemy** - Curso de Angular](https://www.udemy.com/course/curso-de-angular/)
+
+### REACT e NEXT.JS
+
+[**Udemy** - Next.js e React Curso Completo] (https://www.udemy.com/share/104RA83@VyIa_7LXh6tiuoeNTz1dqczL4lOS5OVvueEhHsdCgJN8U75I7fBbAmTfnsVLQgpG9Q==/)
