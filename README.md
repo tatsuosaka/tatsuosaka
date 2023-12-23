@@ -35,4 +35,4 @@
 
 ### REACT e NEXT.JS
 
-[**Udemy** - Next.js e React Curso Completo] (https://www.udemy.com/share/104RA83@VyIa_7LXh6tiuoeNTz1dqczL4lOS5OVvueEhHsdCgJN8U75I7fBbAmTfnsVLQgpG9Q==/)
+- [**Udemy** - Next.js e React Curso Completo](https://www.udemy.com/share/104RA83@VyIa_7LXh6tiuoeNTz1dqczL4lOS5OVvueEhHsdCgJN8U75I7fBbAmTfnsVLQgpG9Q==/)
