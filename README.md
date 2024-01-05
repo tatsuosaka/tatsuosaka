@@ -13,6 +13,7 @@
 - [**Blog Coding Invest**](https://blog.codinginvest.com.br/)
 - [**Maps Coding Invest**](https://maps.codinginvest.com.br/)
 - [**Portfolio**](https://tatsuosaka.com/)
+- [**YouTube Clone**](https://youtube-clone-beta-orpin.vercel.app/) - [Projeto GitHub](https://github.com/tatsuosaka/youtube-clone)
 
 # Estudos 
 
