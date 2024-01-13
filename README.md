@@ -17,7 +17,7 @@
 
 # Estudos 
 
-#### FACULDADE - Cursando - Atualmente estou no 3°Semestre
+#### FACULDADE - Cursando - Atualmente estou no 4°Semestre
 
 - [**Descomplica - Análise e desenvolvimento de sistemas**](https://descomplica.com.br/guia-de-carreiras/analise-e-desenvolvimento-de-sistemas/)
 
