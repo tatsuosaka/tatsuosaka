@@ -15,6 +15,7 @@
 - [**Carnívoros Mind**](https://carnivorosmind.com.br/)
 - [**Portfolio**](https://tatsuosaka.com/)
 - [**YouTube Clone**](https://youtube-clone-beta-orpin.vercel.app/) - [GitHub](https://github.com/tatsuosaka/youtube-clone)
+- [**Hiragana**](https://tatsuosaka.github.io/hiragana/) - [GitHub](https://github.com/tatsuosaka/hiragana)
 
 # Estudos 
 
